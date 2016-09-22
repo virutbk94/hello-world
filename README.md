@@ -1,4 +1,1 @@
-# hello-world
-this is my fisrt program
-
-This is hello world
+Huong dan hoc git co ban
